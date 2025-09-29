@@ -1,7 +1,0 @@
-node_modules
-.env
-# Ignore all Firebase/Google Cloud JSON keys
-*.json
-
-# Ignore all user-uploaded files
-uploads/
